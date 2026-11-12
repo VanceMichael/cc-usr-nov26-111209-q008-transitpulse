@@ -1,0 +1,20 @@
+{
+  "/feed": {
+    "file": "feed.json"
+  },
+  "difference:/feed": {
+    "file": "difference.json"
+  },
+  "deleted:/feed": {
+    "file": "deleted.json"
+  },
+  "ambiguous:/feed": {
+    "file": "ambiguous.json"
+  },
+  "/static": {
+    "file": "static-v1.json"
+  },
+  "ambiguous:/static": {
+    "file": "static-v2.json"
+  }
+}

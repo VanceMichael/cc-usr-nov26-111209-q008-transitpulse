@@ -1,0 +1,18 @@
+{
+  "version": "static1",
+  "timezone": "Asia/Shanghai",
+  "trips": [
+    {
+      "trip_id": "N1",
+      "service_date": "20261111",
+      "start_time": "25:10:00",
+      "end_time": "26:00:00"
+    },
+    {
+      "trip_id": "N1",
+      "service_date": "20261112",
+      "start_time": "01:10:00",
+      "end_time": "02:00:00"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "header": {
+    "gtfs_realtime_version": "2.0",
+    "incrementality": "DIFFERENTIAL",
+    "timestamp": 1794420010
+  },
+  "entity": [
+    {
+      "id": "vehicle1",
+      "vehicle": {
+        "trip": {
+          "trip_id": "N1",
+          "start_date": "20261111",
+          "start_time": "25:10:00"
+        },
+        "timestamp": 1794420010
+      }
+    }
+  ]
+}

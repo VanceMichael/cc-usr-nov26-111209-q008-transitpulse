@@ -1,0 +1,47 @@
+{
+  "header": {
+    "gtfs_realtime_version": "2.0",
+    "incrementality": "FULL_DATASET",
+    "timestamp": 1794420000
+  },
+  "entity": [
+    {
+      "id": "trip1",
+      "trip_update": {
+        "trip": {
+          "trip_id": "N1",
+          "start_date": "20261111",
+          "start_time": "25:10:00"
+        },
+        "timestamp": 1794420000,
+        "stop_time_update": [
+          {
+            "stop_sequence": 1,
+            "arrival": {
+              "time": 0
+            }
+          },
+          {
+            "stop_sequence": 2,
+            "schedule_relationship": "NO_DATA"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vehicle1",
+      "vehicle": {
+        "trip": {
+          "trip_id": "N1",
+          "start_date": "20261111",
+          "start_time": "25:10:00"
+        },
+        "timestamp": 1794420001,
+        "position": {
+          "latitude": 22.1,
+          "longitude": 103.2
+        }
+      }
+    }
+  ]
+}

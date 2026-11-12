@@ -1,0 +1,18 @@
+{
+  "header": {
+    "gtfs_realtime_version": "2.0",
+    "incrementality": "FULL_DATASET",
+    "timestamp": 1794420030
+  },
+  "entity": [
+    {
+      "id": "unspecified",
+      "trip_update": {
+        "trip": {
+          "trip_id": "N1"
+        },
+        "timestamp": 1794420030
+      }
+    }
+  ]
+}
